@@ -1,0 +1,43 @@
+{
+  "n_cells": 61,
+  "ari_vs_true_type": 0.6511145745456626,
+  "mean_max_posterior": 0.8408397880573689,
+  "confusion_matrix": [
+    [
+      0,
+      10,
+      5,
+      0
+    ],
+    [
+      0,
+      1,
+      11,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      19
+    ],
+    [
+      11,
+      0,
+      3,
+      1
+    ]
+  ],
+  "segmentation_binary_dice": 0.9644765207610835,
+  "segmentation_binary_iou": 0.9313902968863143,
+  "pca_explained_variance_ratio": [
+    0.1582302165194005,
+    0.14406608285856454
+  ],
+  "max_posterior_quantiles": {
+    "p10": 0.840839788057369,
+    "p50": 0.8408397880573691,
+    "p90": 0.8408397880573691
+  },
+  "posterior_temperature": 10.0
+}
